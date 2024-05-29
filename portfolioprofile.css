@@ -1,0 +1,80 @@
+body{
+    background-color:black;
+}
+div{
+    color: aliceblue;
+}
+#one{
+  transform: 1s;
+
+}
+body:hover #one{
+  
+  margin-right: 500px;
+  transition: 4s;
+  transition-timing-function: ease-in-out;
+
+}
+#one
+{
+  display: flex;
+}
+ body:hover #hlo
+{
+  margin-left: 300px;
+  transition: 3s;
+  transition-timing-function: ease-in-out;
+}
+#hy{
+  margin-right: 200px;
+  position: absolute;
+  left: 220px;
+  transition-timing-function: ease-out;
+}
+#hyy{
+  top: 400px;
+  left: 220px;
+  transition-timing-function: ease-in;
+}
+#hyyy{
+  top: 200px;
+}
+#two
+{
+  height: 250px;
+  width: 180px;
+  /* border: 8px; */
+  border-radius: 10px;
+  background-color: azure;
+}
+section{
+  position: relative;
+  display: flex;
+}
+
+
+#circle:hover
+{
+  transition: 3s;
+  transform: rotate(360deg);
+}
+#jy:hover
+{
+  transition: 3s;
+  transform: rotate(360deg);
+}
+#jyy:hover
+{
+  transition: 3s;
+  transform: rotate(360deg);
+}
+#jyyy:hover
+{
+  transition: 3s;
+  transform: rotate(360deg);
+}
+#jyyyy:hover
+{
+  transition: 3s;
+  transform: rotate(360deg);
+}
